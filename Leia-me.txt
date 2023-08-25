@@ -1,0 +1,4 @@
+Esse é um dos projetos do desafio JavaScript 7 projetos por 7 dias.
+
+Todo o HTML e CSS já foi feito por B7Web ficando pendente somente o JavaScript.
+
